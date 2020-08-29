@@ -1,6 +1,6 @@
 # Soft Tissue Robotics Tutorials
 
-Within the [DFG graduate school Soft Tissue Robotics](https://www.str.uni-stuttgart.de/) PhD students of the University of Stuttgart, Germany, and the University of Auckland, New Zealand, investigate new simulation-driven methods for manipulating deformable objects with robotic devices. 
+Within the [DFG international research trainging group (IRTG) on Soft Tissue Robotics](https://www.str.uni-stuttgart.de/) PhD students of the University of Stuttgart, Germany, and the University of Auckland, New Zealand, investigate new simulation-driven methods for manipulating deformable objects with robotic devices. 
 
 
 As part of the teaching curriculum, intedisciplinary tutorial sessions were held between the PhD students. This repository aims to collect the tutorial sessions that are based on shareable code.
